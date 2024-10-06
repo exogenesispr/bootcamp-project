@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "target": "ES2015",
+        "module": "ESNext",
+        "moduleResolution": "node",
+        "composite": true,
+        "emitDeclarationOnly": true,
+        "allowImportingTsExtensions": true,
+        "esModuleInterop": true
+    },
+    "exclude": [
+        "node_modules"
+    ],
+    "include": [
+        "**/*.ts",
+        "data/wowTokenScript/fetchWowTokenData.ts",
+        "data/wowTokenScript/updateWowTokenData.js"
+    ]
+}
