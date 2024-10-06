@@ -1,5 +1,7 @@
 # BOOST
 
+- Previous repository can be found [here](https://github.com/exogenesispr/isdi-bootcamp-202402/tree/feature/project/staff/pau-julian/project) and commit history [here](https://github.com/exogenesispr/isdi-bootcamp-202402/commits/feature/project/staff/pau-julian/project).
+
 ## Intro
 
 Fulfill a need in the game community to find cheaper and legal boosts & services.
@@ -69,3 +71,4 @@ Fulfill a need in the game community to find cheaper and legal boosts & services
         - raid Saved price
             - value (req)
             - lastEdited (req)
+
